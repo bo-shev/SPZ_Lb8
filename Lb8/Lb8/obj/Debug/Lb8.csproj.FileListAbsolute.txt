@@ -1,0 +1,10 @@
+C:\Users\i_am_\source\repos\Lb8\Lb8\bin\Debug\Lb8.exe.config
+C:\Users\i_am_\source\repos\Lb8\Lb8\bin\Debug\Lb8.exe
+C:\Users\i_am_\source\repos\Lb8\Lb8\bin\Debug\Lb8.pdb
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.csprojAssemblyReference.cache
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.Form1.resources
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.Properties.Resources.resources
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.csproj.GenerateResource.cache
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.csproj.CoreCompileInputs.cache
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.exe
+C:\Users\i_am_\source\repos\Lb8\Lb8\obj\Debug\Lb8.pdb
